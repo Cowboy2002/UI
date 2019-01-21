@@ -1,4 +1,4 @@
-# Blockshare platform UI
+# Blockshare Platform UI
 ![Imgur](https://imgur.com/w0OUhl5.png)
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg)
